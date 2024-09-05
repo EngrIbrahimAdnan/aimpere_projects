@@ -12,6 +12,10 @@ This repository provides an overview of selected public projects I worked on dur
 
 ### 1. SharpScenery
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/c0fd9061-455e-4040-b25a-a2d3b81773bf">
+</div>
+
 **SharpScenery** is an adrenaline-pumping first-person shooter game that puts your reflexes and precision to the ultimate test! Set in a beautifully crafted urban park environment, players must race against time to hit as many targets as possible and achieve the highest score. With its immersive gameplay and dynamic environment, SharpScenery challenges even the sharpest shooters to excel.
 
 - **Technologies Used:** Unreal Engine 5, Inno Setup
