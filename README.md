@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/user-attachments/assets/28a4b114-0afa-4b5c-b2df-2adfaf3c0026">
+</div>
+
 ## Aimpere Projects Showcase
 
 This repository provides an overview of selected public projects I worked on during my tenure at Aimpere, covering various domains including software engineering, electrical engineering, and game development. All projects listed here are public and comply with Aimpere's policy on intellectual property, ensuring that no sensitive or proprietary information is disclosed. These repositories serve to demonstrate my skills and the type of work I've undertaken at Aimpere.
