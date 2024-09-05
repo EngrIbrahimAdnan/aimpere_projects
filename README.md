@@ -12,6 +12,8 @@ This repository provides an overview of selected public projects I worked on dur
 
 ### 1. Power Conversion in Electric Trains
 
+![image](https://github.com/EngrIbrahimAdnan/TrainPowerConverterSim/assets/123921774/6c99aa15-7942-4072-9fa9-9fac88e378f5)
+
 Explore power conversion in electric trains using MATLAB Simulink, focusing on rectifiers and converters for efficient traction systems. This project includes detailed simulations and analysis of both ideal and non-ideal diode and IGBT characteristics, offering insights into optimizing power electronics for rail transport.
 
 - **Technologies Used:** MATLAB, Simulink
@@ -20,6 +22,8 @@ Explore power conversion in electric trains using MATLAB Simulink, focusing on r
 
 ### 2. Transmission Line Outage Analysis Using LiDAR
 
+![image](https://github.com/EngrIbrahimAdnan/LightningStrikeTransmissionModels/assets/123921774/b8862963-739e-4be4-a4fd-b43d4ad5c1ad)
+
 Transmission line outages can have significant consequences, ranging from minor local disruptions to major long-term impacts. This project leverages LiDAR data to analyze and optimize the shielding effect of trees on transmission lines during lightning strikes, providing a framework for enhanced power line reliability and safety.
 
 - **Technologies Used:** LiDAR Data Analysis, MATLAB
@@ -27,6 +31,8 @@ Transmission line outages can have significant consequences, ranging from minor 
 - **Link to Repository:** [Transmission Line Outage Analysis Using LiDAR](https://github.com/EngrIbrahimAdnan/LightningStrikeTransmissionModels)
 
 ### 3. Vocal Extraction Methods in Audio Processing
+
+![image](https://github.com/EngrIbrahimAdnan/VocalExtraction-Evaluation/assets/123921774/5f22713f-bd62-4b46-aa81-ed49426001f9)
 
 This repository analyzes vocal extraction from music using four methods: Librosa, Spleeter, Audacity, and VocalRemover. It evaluates each method's performance, technicality, and fine-tuning. The project includes scripts for Librosa and Spleeter, project files for Audacity, and detailed replication steps. It utilizes Python 3.9 and Audacity 3.1.3 for comprehensive audio analysis.
 
