@@ -4,13 +4,21 @@ This repository provides an overview of selected public projects I worked on dur
 
 ### Table of Contents
 
-1. [Power Conversion in Electric Trains](#power-conversion-in-electric-trains)
-2. [Transmission Line Outage Analysis Using LiDAR](#transmission-line-outage-analysis-using-lidar)
-3. [Vocal Extraction Methods in Audio Processing](#vocal-extraction-methods-in-audio-processing)
+2. [SharpScenery](#SharpScenery)
+2. [Power Conversion in Electric Trains](#power-conversion-in-electric-trains)
+3. [Transmission Line Outage Analysis Using LiDAR](#transmission-line-outage-analysis-using-lidar)
+4. [Vocal Extraction Methods in Audio Processing](#vocal-extraction-methods-in-audio-processing)
 
----
 
-### 1. Power Conversion in Electric Trains
+### 1. SharpScenery
+
+**SharpScenery** is an adrenaline-pumping first-person shooter game that puts your reflexes and precision to the ultimate test! Set in a beautifully crafted urban park environment, players must race against time to hit as many targets as possible and achieve the highest score. With its immersive gameplay and dynamic environment, SharpScenery challenges even the sharpest shooters to excel.
+
+- **Technologies Used:** Unreal Engine 5, Inno Setup
+- **Key Focus:** First-Person Shooter Mechanics, Time-Based Challenges
+- **Link to Repository:** [SharpScenery](https://github.com/EngrIbrahimAdnan/SharpScenery)
+
+### 2. Power Conversion in Electric Trains
 
 ![image](https://github.com/EngrIbrahimAdnan/TrainPowerConverterSim/assets/123921774/6c99aa15-7942-4072-9fa9-9fac88e378f5)
 
@@ -20,7 +28,7 @@ Explore power conversion in electric trains using MATLAB Simulink, focusing on r
 - **Key Focus:** Rectifiers, Converters, IGBT Characteristics
 - **Link to Repository:** [Power Conversion in Electric Trains](https://github.com/EngrIbrahimAdnan/TrainPowerConverterSim)
 
-### 2. Transmission Line Outage Analysis Using LiDAR
+### 3. Transmission Line Outage Analysis Using LiDAR
 
 ![image](https://github.com/EngrIbrahimAdnan/LightningStrikeTransmissionModels/assets/123921774/b8862963-739e-4be4-a4fd-b43d4ad5c1ad)
 
@@ -30,7 +38,7 @@ Transmission line outages can have significant consequences, ranging from minor 
 - **Key Focus:** Lightning Strike Analysis, Transmission Line Shielding
 - **Link to Repository:** [Transmission Line Outage Analysis Using LiDAR](https://github.com/EngrIbrahimAdnan/LightningStrikeTransmissionModels)
 
-### 3. Vocal Extraction Methods in Audio Processing
+### 4. Vocal Extraction Methods in Audio Processing
 
 ![image](https://github.com/EngrIbrahimAdnan/VocalExtraction-Evaluation/assets/123921774/5f22713f-bd62-4b46-aa81-ed49426001f9)
 
